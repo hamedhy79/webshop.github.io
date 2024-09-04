@@ -1,0 +1,76 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="home:home" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.contrib.include" />
+          <option value="mainweb.mainweb.urls.admin" />
+          <option value="mainweb.mainweb.views" />
+          <option value="socialmedia.home.views.HomeView.as_views" />
+          <option value="socialmedia.account.views.POST" />
+          <option value="django.db.models.*" />
+          <option value="socialmedia.account.admin.Post" />
+          <option value="django.views.generic.base.View.AppHome" />
+          <option value="django.views.generic.base.View.home" />
+          <option value="webapp.home.urls.view" />
+          <option value="webapp.account.form.Form" />
+          <option value="webapp.account.views.forms" />
+          <option value="form.cleaned_data" />
+          <option value="django.contrib.auth.authentication" />
+          <option value="webapp.local_settings" />
+          <option value="webapp.account.views.requestuser" />
+          <option value="webapp.account.views.user" />
+          <option value="django.contrib.auth.models.User.DoesNotExist" />
+          <option value="webapp.account.views.extra_fields" />
+          <option value="webapp.account.views.username" />
+          <option value="webapp.account.forms.UserRegisterForms.save" />
+          <option value="super.clean" />
+          <option value="webapp.account.views.UserLoginView.form_class" />
+          <option value="webapp.account.views.webapp" />
+          <option value="webapp.account.views.home" />
+          <option value="webapp.home.models.Post" />
+          <option value="webapp.home.models.Post.objects" />
+          <option value="webapp.account.models.Relation.objects" />
+          <option value="webapp.webapp.settings.django" />
+          <option value="webapp.webapp.urls.staticfiles_urlpatterns" />
+          <option value="webapp.home.models.Post.post_comments" />
+          <option value="webapp.home.views.form_class_reply" />
+          <option value="webapp.home.models.Vote.objects" />
+          <option value="webapp.home.models.Post.post_votes" />
+          <option value="webapp.home.views.UserRegisterser" />
+          <option value="webapp.home.models.Answer.title" />
+          <option value="webapp.home.views.CreateCarView.create_car" />
+          <option value="webapp.home.views.request" />
+          <option value="home.urls.TemplatView" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
